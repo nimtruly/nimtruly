@@ -25,6 +25,9 @@ yeah ik stfu
       <h1 style="margin-bottom: 0;">Hi, nim this side 👋</h1>
       <h3 style="margin-top: 10px;">Sup?</h3>
     </td>
+    <td>
+      <img src = "https://tenor.com/view/michael-jackson-thriller-spooky-halloween-pixel-art-gif-19178159" width = "100%" alt = "Thriller Timez">
+    </td>
   </tr>
 </table>
 
