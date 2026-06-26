@@ -26,7 +26,7 @@ yeah ik stfu
       <h3 style="margin-top: 10px;">Sup?</h3>
     </td>
     <td>
-      <img src = "https://tenor.com/view/michael-jackson-thriller-spooky-halloween-pixel-art-gif-19178159" width = "100%" alt = "Thriller Timez">
+      <img src = "https://media.tenor.com/Zlj5otXP-3wAAAAj/michael-jackson-thriller.gif" width = "100%" alt = "Thriller Timez">
     </td>
   </tr>
 </table>
