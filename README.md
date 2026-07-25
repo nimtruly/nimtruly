@@ -22,8 +22,8 @@ yeah ik stfu
       <img src="https://media.tenor.com/xWxLptH92UoAAAAi/ali-graham-lil-ye.gif" width="100%" alt="Lil Ye GIF">
     </td>
     <td valign="middle">
-      <h1 style="margin-bottom: 0;">Hi, nim this side 👋</h1>
-      <h3 style="margin-top: 10px;">Sup?</h3>
+      <h1 style="margin-bottom: 0;">nim here</h1>
+      <h3 style="margin-top: 10px;">sup?</h3>
     </td>
     <td>
       <img src = "https://media.tenor.com/Zlj5otXP-3wAAAAj/michael-jackson-thriller.gif" width = "100%" alt = "Thriller Timez">
@@ -36,7 +36,7 @@ yeah ik stfu
 ### Creative Director | Video Editor | Developer
 
 * 🌐  [nimtruly.in](https://nimtruly.in)
-* ✉️  [nimishvwork@gmail.com](mailto:nimishvwork@gmail.com)
+* ✉️  [hello@nimtruly.in](mailto:hello@nimtruly.in)
 * 🧠  Currently building with Next.js & Framer Motion
 * 🤝  I'm open to collaborating on Creative & Tech Projects
 
