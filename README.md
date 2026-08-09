@@ -37,8 +37,8 @@ yeah ik stfu
 
 * 🌐  [nimtruly.in](https://nimtruly.in)
 * ✉️  [hello@nimtruly.in](mailto:hello@nimtruly.in)
-* 🧠  Currently building with Next.js & Framer Motion
-* 🤝  I'm open to collaborating on Creative & Tech Projects
+* 🧠  building with Next.js & Framer Motion
+* 🤝  open to collaborating on Creative & Tech Projects
 
 ---
 
